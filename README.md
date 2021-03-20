@@ -1,5 +1,7 @@
 # Nişantaşı Üniversitesi Grafik Tasarımı Kulübü
 
+## Kulübün Adı
+
 Kulübün tam adı “Nişantaşı Üniversitesi Grafik Tasarımı Kulübü”, kısa adı “nishgt”dir. Grafik Tasarımı Kulübü, Nişantaşı Üniversitesi Maslak NEOTECH Yerleşkesinde kuruludur.
 
 ## Kulübün Amacı
