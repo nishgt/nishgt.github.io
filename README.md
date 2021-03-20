@@ -57,15 +57,15 @@ Kadir Şahin
 
 ## Bağlantılar
 
-**Blog:** https://nishgt.art
+**Blog:** [https://nishgt.art](https://nishgt.art)
 
-**Info:** https://info.nishgt.art
+**Info:** [https://info.nishgt.art](https://info.nishgt.art)
 
-**GitHub:** https://github.com/nishgt
+**GitHub:** [https://github.com/nishgt](https://github.com/nishgt)
 
-**Instagram:** https://instagram.com/nishgt2021
+**Instagram:** [https://instagram.com/nishgt2021](https://instagram.com/nishgt2021)
 
-**Twitter:** https://twitter.com/nishgt
+**Twitter:** [https://twitter.com/nishgt](https://twitter.com/nishgt)
 
-**Behance:** https://behance.net/nishgt
+**Behance:** [https://behance.net/nishgt](https://behance.net/nishgt)
 
