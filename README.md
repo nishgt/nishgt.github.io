@@ -35,23 +35,25 @@ h) Kulüpler/Topluluklar danışman onaylı üye listelerini, her akademik yarı
 
 ## Kurucu Üyeler
 
+```
 Muhammet Ali Çaylak
-
 Ömer Ayyıldız
-
 Tolga Kasal
-
 Kardelen Büyük
+```
 
 ## Danışman Öğretmen
 
+```
 Aslı Açar
+```
 
 ## Destekçiler
 
+```
 Damla Köksal
-
 Kadir Şahin
+```
 
 ---
 
