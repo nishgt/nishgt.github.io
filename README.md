@@ -40,6 +40,7 @@ Muhammet Ali Çaylak
 Ömer Ayyıldız
 Tolga Kasal
 Kardelen Büyük
+Kadir Şahin
 ```
 
 ## Danışman Öğretmen
